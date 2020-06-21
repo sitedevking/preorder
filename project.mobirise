@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-06-21_0238",
-    "currentPage": "index.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -43,14 +43,15 @@
     "versionPublish": "4.12.3"
   },
   "pages": {
-    "index.html": {
+    "Home.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Prp- Order Now to experience lightning fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback, adaptive triggers and 3D Audio, and an all-new generation of incredible PlayStation® games. ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/cytflavx9vw8yhnqpesngp-768-80-768x427.png"
       },
       "components": [
         {
